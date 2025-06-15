@@ -68,6 +68,8 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 
 ### Computational Tools
 
+* [DeepSpot](https://github.com/ratschlab/DeepSpot) leverages recent foundation models in pathology to effectively predict spatial transcriptomics from H&E images.
+* [AESTETIK](https://github.com/ratschlab/aestetik) jointly integrates spatial, transcriptomics, and morphology information to learn accurate spot representations.
 * [Sopa](https://github.com/gustaveroussy/sopa)  enables processing and analyses of image-based spatial-omics using a standard data structure and output. We currently support the following technologies: Xenium, MERSCOPE, CosMX, PhenoCycler, MACSIMA, Hyperion. Sopa was designed for generability and low-memory consumption on large images (scales to 1TB+ images).
 * [Monkeybread](https://monkeybread.readthedocs.io/en/latest/notebooks/tutorial.html) A python package developed at Immunitas to do spatial analysis for Merfish data.
 * [Giotto](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02286-2) a toolbox for integrative analysis and visualization of spatial expression data
@@ -110,6 +112,7 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 * 
 #### Integration 
 
+* [Representation learning for multi-modal spatially resolved transcriptomics data](https://www.medrxiv.org/content/10.1101/2024.06.04.24308256v1.full)
 * [Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST](https://www.nature.com/articles/s41467-023-35947-w)
 * [High-resolution alignment of single-cell and spatial transcriptomes with CytoSPACE](https://www.nature.com/articles/s41587-023-01697-9)
 * [Search and Match across Spatial Omics Samples at Single-cell Resolution](https://www.biorxiv.org/content/10.1101/2023.08.13.552987v1)
@@ -122,8 +125,8 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 
 #### Clustering
 
+* [Representation learning for multi-modal spatially resolved transcriptomics data](https://www.medrxiv.org/content/10.1101/2024.06.04.24308256v1.full)
 * [BASS: multi-scale and multi-sample analysis enables accurate cell type clustering and spatial domain detection in spatial transcriptomic studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02734-7)
-
 * [DeepST: A versatile graph contrastive learning framework for spatially informed clustering, integration, and deconvolution of spatial transcriptomics](https://www.biorxiv.org/content/10.1101/2022.08.02.502407v1)
 
 #### Cell-cell interaction
@@ -139,3 +142,6 @@ https://twitter.com/shyam_lab/status/1698170321155850433?s=51&t=sLukUyq0ReWrcwOw
 #### Interactive tool
 
 * [VITESSCE](https://github.com/vitessce/vitessce) Visual Integration Tool for Exploration of Spatial Single-Cell Experiments
+
+#### Gene Expression Imputation / Prediction from Histology
+* [DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v2)
